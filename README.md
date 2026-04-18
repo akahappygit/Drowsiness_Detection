@@ -88,11 +88,15 @@ This project is intended for educational and research purposes only.
 ## 🙋‍♂️ Author
 
 **Dhruv Agarwal**  
+
 E-mail: dhruv.agarwal433@gmail.com  
+
 [LinkedIn](https://www.linkedin.com/in/dhruvagrawal433)
 
 **Ayush Kumar Anand**
+
 E-mail: work.ayushkumaranand@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/ayush-kumar-anand11/)
 
 
