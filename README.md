@@ -87,13 +87,13 @@ This project is intended for educational and research purposes only.
 
 ## 🙋‍♂️ Author
 
-**Dhruv Agarwal**  
+1. **Dhruv Agarwal**  
 
 E-mail: dhruv.agarwal433@gmail.com  
 
 [LinkedIn](https://www.linkedin.com/in/dhruvagrawal433)
 
-**Ayush Kumar Anand**
+2. **Ayush Kumar Anand**
 
 E-mail: work.ayushkumaranand@gmail.com
 
